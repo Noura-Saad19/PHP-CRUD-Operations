@@ -1,0 +1,20 @@
+{
+    "name": "routecyc36/db",
+    "description": "route db",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Route\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"8.0.12"
+    }
+}
